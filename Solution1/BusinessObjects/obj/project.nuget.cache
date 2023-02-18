@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tqiWuRYQGthjmkNoBN5ZXX/ATnrP7aZmIhmxCMNKCI/dZa+EdRZmkcnKlWrEhNi213kGmDH1wsbKv49fWDA4+Q==",
+  "dgSpecHash": "X7cQ4GgzanA+mlpcteBezK/QJniejPm+Ah1lVaNAn/JnudZQd/6ldNREyzV8nvr+QFZnv4LP60ws6brGQBnBDQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\AspNetCoreWebApp\\Solution1\\BusinessObjects\\BusinessObjects.csproj",
+  "projectFilePath": "D:\\School\\ASP\\Code\\AspNetCoreWebApp\\Solution1\\BusinessObjects\\BusinessObjects.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0cEVGjIHUmF2AH7OlOUl49pD/gnz4jXWuTc8+2q5dD+iPiss98hBzMO4awB82L99KreMPv8OY08ZqSlrv2RwTA==",
+  "dgSpecHash": "kfxTmK8ZAUsupwSxuHcjFOA/xVgy4fBfVHJfG4YQCYcdMj4M3MHXJ+coJJbHHn3XrIWCSlNkdLY0n21206y2xA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\AspNetCoreWebApp\\Solution1\\DataAccess\\DataAccess.csproj",
+  "projectFilePath": "D:\\School\\ASP\\Code\\AspNetCoreWebApp\\Solution1\\DataAccess\\DataAccess.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

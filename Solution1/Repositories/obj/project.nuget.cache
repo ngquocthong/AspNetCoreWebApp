@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RVjTuB70H9l50zSCgLijO23egGen4IL4ecG6nelEpGHlGGGmlWpTCe7a1Ojm851xFQzatM9LEzk5bjDhNZzfOA==",
+  "dgSpecHash": "iMF8C6yTVGF5iFPY4NEJYdhroDZHHow4OL4OdqGiRcwFGQwH/m9BK9sWTT+w9VrYbz/v7FwZ9Q2h//bzPIvcxQ==",
   "success": true,
-  "projectFilePath": "D:\\School\\ASP\\Code\\AspNetCoreWebApp\\Solution1\\Repositories\\Repositories.csproj",
+  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\AspNetCoreWebApp\\Solution1\\Repositories\\Repositories.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

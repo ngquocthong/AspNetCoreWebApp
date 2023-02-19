@@ -8,5 +8,6 @@ namespace BusinessObjects
 {
     internal class Category
     {
+        
     }
 }

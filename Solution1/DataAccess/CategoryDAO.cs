@@ -76,14 +76,14 @@ namespace DataAccess
 
             }
         }
-        public static void DeleteCategory(Book p)
+        public static void DeleteCategory(Category cate)
         {
             try
             {
                 using (var context = new ApplicationDbContext())
                 {
-                    var p1 = context.Categories.SingleOrDefault(c => c.ID == p.ID);
-                    context.Categories.Remove(p1);
+                    var obj = context.Categories.SingleOrDefault(c => c.ID == cate.ID);
+                    context.Categories.Remove(obj);
                     context.SaveChanges();
                 }
             }

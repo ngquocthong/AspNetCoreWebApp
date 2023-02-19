@@ -31,6 +31,9 @@ namespace BusinessObjects
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.Entity<OrderDetails>().HasKey(m => new { m.order_id, m.book_id });
+            modelBuilder.Entity<Category>().HasData(
+                new Category { ID = 1, cate_name = "Fiction", cate_des = "Related to unrealistic storey" },
+                new Category { ID = 2, cate_name = "Finance", cate_des = "Related to financial" });
         }
     }
 }

@@ -12,3 +12,17 @@ C:\Users\Admin\source\repos\AspNetCoreWebApp\Solution1\BusinessObjects\obj\Debug
 C:\Users\Admin\source\repos\AspNetCoreWebApp\Solution1\BusinessObjects\obj\Debug\net6.0\ref\BusinessObjects.dll
 C:\Users\Admin\source\repos\AspNetCoreWebApp\Solution1\BusinessObjects\bin\Debug\net6.0\BusinessObjects.runtimeconfig.json
 C:\Users\Admin\source\repos\AspNetCoreWebApp\Solution1\BusinessObjects\obj\Debug\net6.0\BusinessObjects.genruntimeconfig.cache
+D:\School\ASP\Code\AspNetCoreWebApp\Solution1\BusinessObjects\bin\Debug\net6.0\BusinessObjects.deps.json
+D:\School\ASP\Code\AspNetCoreWebApp\Solution1\BusinessObjects\bin\Debug\net6.0\BusinessObjects.runtimeconfig.json
+D:\School\ASP\Code\AspNetCoreWebApp\Solution1\BusinessObjects\bin\Debug\net6.0\BusinessObjects.dll
+D:\School\ASP\Code\AspNetCoreWebApp\Solution1\BusinessObjects\bin\Debug\net6.0\BusinessObjects.pdb
+D:\School\ASP\Code\AspNetCoreWebApp\Solution1\BusinessObjects\obj\Debug\net6.0\BusinessObjects.csproj.AssemblyReference.cache
+D:\School\ASP\Code\AspNetCoreWebApp\Solution1\BusinessObjects\obj\Debug\net6.0\BusinessObjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\School\ASP\Code\AspNetCoreWebApp\Solution1\BusinessObjects\obj\Debug\net6.0\BusinessObjects.AssemblyInfoInputs.cache
+D:\School\ASP\Code\AspNetCoreWebApp\Solution1\BusinessObjects\obj\Debug\net6.0\BusinessObjects.AssemblyInfo.cs
+D:\School\ASP\Code\AspNetCoreWebApp\Solution1\BusinessObjects\obj\Debug\net6.0\BusinessObjects.csproj.CoreCompileInputs.cache
+D:\School\ASP\Code\AspNetCoreWebApp\Solution1\BusinessObjects\obj\Debug\net6.0\BusinessObjects.dll
+D:\School\ASP\Code\AspNetCoreWebApp\Solution1\BusinessObjects\obj\Debug\net6.0\refint\BusinessObjects.dll
+D:\School\ASP\Code\AspNetCoreWebApp\Solution1\BusinessObjects\obj\Debug\net6.0\BusinessObjects.pdb
+D:\School\ASP\Code\AspNetCoreWebApp\Solution1\BusinessObjects\obj\Debug\net6.0\BusinessObjects.genruntimeconfig.cache
+D:\School\ASP\Code\AspNetCoreWebApp\Solution1\BusinessObjects\obj\Debug\net6.0\ref\BusinessObjects.dll

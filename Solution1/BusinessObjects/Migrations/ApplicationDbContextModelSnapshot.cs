@@ -123,6 +123,20 @@ namespace BusinessObjects.Migrations
                     b.HasKey("ID");
 
                     b.ToTable("Categories");
+
+                    b.HasData(
+                        new
+                        {
+                            ID = 1,
+                            cate_des = "Related to unrealistic storey",
+                            cate_name = "Fiction"
+                        },
+                        new
+                        {
+                            ID = 2,
+                            cate_des = "Related to financial",
+                            cate_name = "Finance"
+                        });
                 });
 
             modelBuilder.Entity("BusinessObjects.Customer", b =>

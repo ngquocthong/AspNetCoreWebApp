@@ -10,9 +10,6 @@ namespace BusinessObjects
 {
     public class Category
     {
-<<<<<<< HEAD
-        
-=======
 
         [Key]
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
@@ -21,6 +18,5 @@ namespace BusinessObjects
         public string cate_name { get; set; }
         public string cate_des { get; set; }
         public virtual ICollection<Book>? Books { get; set; }
->>>>>>> ba88119f06eca110e4ee0199cddc122839e07848
     }
 }

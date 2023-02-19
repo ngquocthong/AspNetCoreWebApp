@@ -2549,19 +2549,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Tom\\.nuget\\packages\\": {}
+    "C:\\Users\\Admin\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\School\\ASP\\Code\\AspNetCoreWebApp\\Solution1\\BookManagementAPI\\BookManagementAPI.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\AspNetCoreWebApp\\Solution1\\BookManagementAPI\\BookManagementAPI.csproj",
       "projectName": "BookManagementAPI",
-      "projectPath": "D:\\School\\ASP\\Code\\AspNetCoreWebApp\\Solution1\\BookManagementAPI\\BookManagementAPI.csproj",
-      "packagesPath": "C:\\Users\\Tom\\.nuget\\packages\\",
-      "outputPath": "D:\\School\\ASP\\Code\\AspNetCoreWebApp\\Solution1\\BookManagementAPI\\obj\\",
+      "projectPath": "C:\\Users\\Admin\\source\\repos\\AspNetCoreWebApp\\Solution1\\BookManagementAPI\\BookManagementAPI.csproj",
+      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Admin\\source\\repos\\AspNetCoreWebApp\\Solution1\\BookManagementAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Tom\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -2575,11 +2575,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\School\\ASP\\Code\\AspNetCoreWebApp\\Solution1\\BusinessObjects\\BusinessObjects.csproj": {
-              "projectPath": "D:\\School\\ASP\\Code\\AspNetCoreWebApp\\Solution1\\BusinessObjects\\BusinessObjects.csproj"
+            "C:\\Users\\Admin\\source\\repos\\AspNetCoreWebApp\\Solution1\\BusinessObjects\\BusinessObjects.csproj": {
+              "projectPath": "C:\\Users\\Admin\\source\\repos\\AspNetCoreWebApp\\Solution1\\BusinessObjects\\BusinessObjects.csproj"
             },
-            "D:\\School\\ASP\\Code\\AspNetCoreWebApp\\Solution1\\Repositories\\Repositories.csproj": {
-              "projectPath": "D:\\School\\ASP\\Code\\AspNetCoreWebApp\\Solution1\\Repositories\\Repositories.csproj"
+            "C:\\Users\\Admin\\source\\repos\\AspNetCoreWebApp\\Solution1\\Repositories\\Repositories.csproj": {
+              "projectPath": "C:\\Users\\Admin\\source\\repos\\AspNetCoreWebApp\\Solution1\\Repositories\\Repositories.csproj"
             }
           }
         }
@@ -2618,7 +2618,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }
